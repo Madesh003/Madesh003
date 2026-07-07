@@ -5,7 +5,7 @@
 
 <!-- 2. TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Madeshwaran+R+%F0%9F%91%8B;Software+Developer+%7C+Java;M.Tech+CSE+%40+VIT+%7C+B.E+CSE+%40+KEC+Vellore;Multi-Agent+AI+Disaster+Prediction+%26+Management+System;Secure+Online+Exam+App+with+AI-Powered+Proctoring;Dual-Model+AI+Diagnostic+Framework+%7C+CNN+%2B+DNN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Madeshwaran+R+%F0%9F%91%8B;Software+Developer+%7C+Java;M.Tech+CSE+%40+VIT+%7C+B.E+CSE+%40+KEC+Vellore;Multi-Agent+AI+Disaster+Management;AI-Powered+Online+Exam+Proctoring;Dual-Model+AI+Disease+Diagnosis" alt="Typing SVG" />
 </a>
 
 </div>
