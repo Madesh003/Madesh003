@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madeshwaran%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20M.Tech%20CSE%20%40%20VIT&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madeshwaran%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Java%20Enthusiast%20%7C%20M.Tech%20CSE%20%40%20VIT%20%7C%20B.E%20CSE%20%40%20KEC&descAlignY=62&descSize=16" />
 
 <!-- 2. TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Madeshwaran+R+%F0%9F%91%8B;Frontend+Developer+%7C+React.js+%2B+FastAPI;M.Tech+CSE+Student+at+VIT+Vellore;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Madeshwaran+R+%F0%9F%91%8B;Software+Developer+%7C+Java+%2B+React.js;M.Tech+CSE+%40+VIT+%7C+B.E+CSE+%40+KEC+Vellore;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,12 @@
 class Madeshwaran {
     String name = "Madeshwaran R";
     String location = "Vellore, Tamil Nadu, India";
-    String degree = "M.Tech in Computer Science & Engineering, VIT Vellore";
+    String role = "Software Developer";
+
+    String[] education = {
+        "M.Tech in CSE — VIT Vellore (2025‐2027)",
+        "B.E. in CSE — Kingston Engineering College (KEC), Vellore (2021‐2025)"
+    };
 
     String[] stack = {
         "Java", "JavaScript", "C",
@@ -26,10 +31,16 @@ class Madeshwaran {
         "MySQL", "MongoDB"
     };
 
+    String[] projects = {
+        "Multi-Agent AI Disaster Prediction & Management System",
+        "Secure Online Exam App with AI-Powered Proctoring",
+        "Dual-Model AI Diagnostic Framework (Malaria + Heart Disease)"
+    };
+
     String[] currentlyLearning = {
+        "Advanced Java & Core Concepts",
         "Ensemble Learning & Explainable AI (SHAP)",
-        "Computer Vision (YOLO)",
-        "Advanced System Design"
+        "Computer Vision (YOLO)"
     };
 
     String funFact = "I've built AI-powered proctoring, disaster prediction, "
